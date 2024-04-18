@@ -1,0 +1,4 @@
+faces/
+venv/
+*.zip
+*.pyc

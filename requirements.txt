@@ -1,0 +1,4 @@
+deepface
+opencv-python
+FaceAnalyzer>=0.1.27
+gradio==3.41.2
